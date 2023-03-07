@@ -15,6 +15,8 @@ Requirements for running the program:
 
 ![600942c1646eb1538849572b](https://user-images.githubusercontent.com/98597119/223409566-d33a667f-cb60-4c29-b467-06c0dc12a48f.jpg)
 
+![61e29b82646eb1751c014b0e](https://user-images.githubusercontent.com/98597119/223409923-62f5a75c-275a-4257-b0a4-331160138a00.jpg)
+
 ![1789955335 01 _SCLZZZZZZZ_SX500_](https://user-images.githubusercontent.com/98597119/223407695-aa7cb094-a62d-43ff-bc74-7eee470504c6.jpg)
 
 ![s-l400](https://user-images.githubusercontent.com/98597119/223408271-2792a2ec-adb3-4006-8287-813937b698a8.jpg)
