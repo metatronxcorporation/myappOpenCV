@@ -1,5 +1,7 @@
 # myappOpenCV
 
+![OpenCV-Face-Recognition](https://user-images.githubusercontent.com/98597119/223411187-a1718ed7-0ded-44c7-9528-9c22e9edd254.jpg)
+
 This program uses the OpenCV library to detect faces in a live stream from webcam or in a video file stored in the local machine. This program detects faces in real time and tracks it. It uses pre-trained XML classifiers for the same. The classifiers used in this program have facial features trained in them. Different classifiers can be used to detect different objects.
 
 ### Requirements for running the program:
