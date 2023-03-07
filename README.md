@@ -21,6 +21,8 @@ https://opencv.org/
 
 ![6139bf2d646eb15d00d0da77](https://user-images.githubusercontent.com/98597119/223410276-0f178b45-7bfd-495f-bdb4-07ecc0d7562b.jpg)
 
+![Learning OpenCV Computer Vision in CPP](https://user-images.githubusercontent.com/98597119/223406665-c4f5dddf-4365-430e-b502-24e48d71da15.jpg)
+
 ![1789955335 01 _SCLZZZZZZZ_SX500_](https://user-images.githubusercontent.com/98597119/223407695-aa7cb094-a62d-43ff-bc74-7eee470504c6.jpg)
 
 ![s-l400](https://user-images.githubusercontent.com/98597119/223408271-2792a2ec-adb3-4006-8287-813937b698a8.jpg)
