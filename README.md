@@ -6,8 +6,6 @@ This program uses the OpenCV library to detect faces in a live stream from webca
 
 ### Requirements for running the program:
 
-https://opencv.org/
-
 1) OpenCV must be installed on the local machine.
 2) Paths to the classifier XML files must be given before the execution of the program. These XML files can be found in the OpenCV directory “opencv/data/haarcascades”.
 3) Use 0 in capture.open(0) to play webcam feed.
