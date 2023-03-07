@@ -15,8 +15,6 @@ https://opencv.org/
 
 ### Students Reference Books
 
-![Learning OpenCV Computer Vision in CPP](https://user-images.githubusercontent.com/98597119/223406665-c4f5dddf-4365-430e-b502-24e48d71da15.jpg)
-
 ![600942c1646eb1538849572b](https://user-images.githubusercontent.com/98597119/223409566-d33a667f-cb60-4c29-b467-06c0dc12a48f.jpg)
 
 ![61e29b82646eb1751c014b0e](https://user-images.githubusercontent.com/98597119/223409923-62f5a75c-275a-4257-b0a4-331160138a00.jpg)
